@@ -6,3 +6,5 @@ sources:
 
 2) newly developed technique: Prof. Rolf Steyer und Prof. Axel Mayer
 3) Mayer, A., Dietzfelbinger, L., Rosseel, Y. & Steyer, R. (2016). The EffectLiteR approach for analyzing average and conditional effects. Multivariate Behavioral Research, 51 (2-3), 374–391. doi:10.1080/00273171.2016.1151334
+
+I wrote the code in the course of my master thesis.
